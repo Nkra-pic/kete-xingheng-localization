@@ -32,6 +32,14 @@
       "dir": "data",
       "steam": "213670",
       "subtitle": "Windows Steam · 1380--2014-03-30_08-32PM · 游戏语言请选择英语"
+    },
+    {
+      "id": "9thdawn3",
+      "name": "第九黎明3",
+      "exe": "9th Dawn III Launcher.exe",
+      "dir": "GameBin/9th Dawn III_Data/Managed",
+      "steam": "1154850",
+      "subtitle": "Windows Steam · Build 22484469 · 游戏内容第二轮 · 含启动器和游戏本体汉化"
     }
   ]
 }
