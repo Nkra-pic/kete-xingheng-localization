@@ -16,6 +16,14 @@
       "dir": "data",
       "steam": "250520",
       "subtitle": "Underrail · 简体中文汉化包"
+    },
+    {
+      "id": "limbus",
+      "name": "边狱巴士",
+      "exe": "LimbusCompany.exe",
+      "dir": "LimbusCompany_Data",
+      "steam": "1973530",
+      "subtitle": "Limbus Company · Windows Steam 简体中文汉化"
     }
   ]
 }
