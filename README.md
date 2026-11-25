@@ -8,5 +8,6 @@
 | --- | --- | --- | --- |
 | 马基埃尔传说（Tales of Maj’Eyal） | Windows Steam 版 1.7.6 | `tome4-zh.zip` | [查看说明](./游戏/马基埃尔传说/README.md) |
 | 地下轨道（Underrail） | Windows | `underrail-zh.zip` | [查看说明](./游戏/地下轨道/README.md) |
+| 边狱巴士（Limbus Company） | Windows Steam 版 | `limbus-zh.zip` | [查看说明](./游戏/边狱巴士/README.md) |
 
 维护者可参阅[发布汉化](./发布汉化.md)。
