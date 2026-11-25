@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "games": [
+    {
+      "id": "tome4",
+      "name": "马基埃尔传说",
+      "exe": "t-engine.exe",
+      "dir": "game/addons",
+      "steam": "259680",
+      "subtitle": "Tales of Maj’Eyal · Windows Steam 1.7.6"
+    },
+    {
+      "id": "underrail",
+      "name": "地下轨道",
+      "exe": "underrail.exe",
+      "dir": "data",
+      "steam": "250520",
+      "subtitle": "Underrail · 简体中文汉化包"
+    }
+  ]
+}
