@@ -24,6 +24,14 @@
       "dir": "LimbusCompany_Data",
       "steam": "1973530",
       "subtitle": "Limbus Company · Windows Steam 简体中文汉化"
+    },
+    {
+      "id": "southpark-sot",
+      "name": "南方公园：真理之杖",
+      "exe": "South Park - The Stick of Truth.exe",
+      "dir": "data",
+      "steam": "213670",
+      "subtitle": "Windows Steam · 1380--2014-03-30_08-32PM · 游戏语言请选择英语"
     }
   ]
 }
